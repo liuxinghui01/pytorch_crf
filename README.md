@@ -17,3 +17,11 @@ pytorch version of conditional random field
 ## 模型运行
 ```
 main.py
+
+
+## 模型推导
+![image](https://user-images.githubusercontent.com/50771953/181914344-89250afc-8120-4bd6-99a0-24c568c8dc8f.png)
+![image](https://user-images.githubusercontent.com/50771953/181914364-b67c808c-2bc7-4aab-ab4e-93518b1fbf6e.png)
+![image](https://user-images.githubusercontent.com/50771953/181914370-b64f7794-c81f-449a-ae3c-58c990708edf.png)
+
+
