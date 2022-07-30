@@ -17,7 +17,7 @@ pytorch version of conditional random field
 ## 模型运行
 ```
 main.py
-
+```
 
 ## 模型推导
 ![image](https://user-images.githubusercontent.com/50771953/181914344-89250afc-8120-4bd6-99a0-24c568c8dc8f.png)
